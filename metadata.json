@@ -1,0 +1,6 @@
+{
+  "name": "Cortador de Vídeo",
+  "description": "Um aplicativo minimalista para cortar vídeos localmente no navegador, definir tempos de início/fim e exportar para download com privacidade total.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
