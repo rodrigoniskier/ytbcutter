@@ -12,7 +12,7 @@ Aplicativo minimalista para cortar trechos de vídeo no navegador, sem enviar o 
 
 **Tecnologias.** React, TypeScript, Vite, Tailwind CSS, MediaRecorder API, YouTube IFrame API, GitHub Actions (deploy no GitHub Pages).
 
-**Qualidade e evidências.** O corte local regrava o trecho no navegador com a MediaRecorder API, sem backend. Este repositório não tem testes automatizados.
+**Qualidade e evidências.** O corte local regrava o trecho no navegador com a MediaRecorder API, sem backend. Este repositório não tem testes automatizados. Licença MIT.
 
 ## Executar localmente
 
